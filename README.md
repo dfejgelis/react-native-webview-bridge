@@ -1,5 +1,7 @@
 ## Please take a look at this [issue](https://github.com/alinz/react-native-webview-bridge/issues/109) first
 
+0.21.0 with PR 116
+
 # React Native WebView Javascript Bridge
 I have been testing and reading a lot of way to safely create a bridge between react-native and webview. I'm happy to announced that the wait is over and from **React-Native 0.20 and above**, the bridge is fully functional.
 
